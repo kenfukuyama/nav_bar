@@ -1,0 +1,23 @@
+.nav {
+    background-color: aquamarine;
+    width: 1000px;
+    padding: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-links {
+    /* background-color: rebeccapurple; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    gap: 10px;
+
+}
+
+li {
+    list-style-type: none;
+}
